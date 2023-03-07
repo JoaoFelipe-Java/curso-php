@@ -33,5 +33,6 @@ git log
 // sincronizar o repositório do github com a pasta local do git [executar 1x]
 git remote add origin https://github.com/luiz87/curso-php.git
 
+teste joao
 // enviar as alterações locais para o github [executar sempre geralmente depois do commit]
 git push -u origin master
